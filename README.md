@@ -1,5 +1,14 @@
-## CS114.L22.KHCL and CS114.L21.KHCL
-# Thành viên nhóm
-* Võ Phạm Duy Đức - 19521383 - CS114.L22.KHCL
-* Đỗ Trọng Khánh - 19521676 - CS114.L22.KHCL
-* Trịnh Công Danh - 19521326 - CS114.L21.KHCL
+# CS114.L22.KHCL
+CS114.L22 - MÁY HỌC - MACHINE LEARNING
+# Thành viên nhóm:
+| STT    | MSSV          | Họ và Tên              |Chức Vụ    | Github                                                  | Email                   |
+| ------ |:-------------:| ----------------------:|----------:|--------------------------------------------------------:|-------------------------:
+| 1      | 19521383      | Võ Phạm Duy Đức        |Nhóm trưởng|[ducducqn123](https://github.com/ducducqn123)            |19521383@gm.uit.edu.vn   |
+| 2      | 19521676      | Đỗ Trọng Khánh         |Thành viên |[trong-khanh-1109](https://github.com/trong-khanh-1109)  |19521676@gm.uit.edu.vn   |
+| 3      | 19521326      | Trịnh Công Danh        |Thành viên |[danhtrinh15092001](https://github.com/danhtrinh15092001)|19521326@gm.uit.edu.vn   |
+## GIỚI THIỆU MÔN HỌC
+* **Tên môn học:** MÁY HỌC - MACHINE LEARNING
+* **Mã môn học:** CS114
+* **Mã lớp:** CS114.L22.KHCL
+* **Năm học:** HK2 (2020 - 2021)
+* **Giảng viên:** Phạm Nguyễn Trường An và Lê Đình Duy
